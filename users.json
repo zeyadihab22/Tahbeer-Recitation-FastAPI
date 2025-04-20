@@ -1,0 +1,22 @@
+{
+    "admin": {
+        "username": "admin",
+        "full_name": "Administrator",
+        "hashed_password": "$2b$12$1cw8ncfjTuheQ2vRkhyiB.vJYJEFGt/eR.tuA7l791Iug01546EQy"
+    },
+    "newuser": {
+        "username": "newuser",
+        "full_name": "New User",
+        "hashed_password": "$2b$12$iZyxLMPcUvdclCSTvNnNpe53/K9Etr0.slZ8h.5IcSNd2G2RC30UC"
+    },
+    "newuser1": {
+        "username": "newuser1",
+        "full_name": "New User",
+        "hashed_password": "$2b$12$MFqZ.NTywfTS/ABhqvj/3.c9Gdtj5earlvMzw9rcPGvSlg9hMmHR."
+    },
+    "newuser2": {
+        "username": "newuser2",
+        "full_name": "New User2",
+        "hashed_password": "$2b$12$ZsV.7PUCpM/FIumL9SnzPO/c7K.e/mZ9R4UPTXTGwxLAuksPV3cym"
+    }
+}
